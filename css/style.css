@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playfair&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sunshiney&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    background: rgb(50, 50, 56);
+}
+.quadrado {
+    background-color: rgb(28, 28, 41);
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 480px;
+  
+}
+
+.titulo {
+    position: absolute;
+    top: 30px;
+    left: 470px;   
+    color: #ecd8b3;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 27px;
+}
+
+.sesi {
+    width: 135px;
+    position: absolute;
+    top: 115px;
+    margin-left: 80px;
+    background-color: transparent;
+}
+
+h1 {
+    position: absolute;
+    background-color: transparent;
+    color: rgb(175, 155, 155);
+    top: 240px;
+    left: 150px;
+    font-size: 55px;
+    font-family: 'IM Fell English SC', sans-serif;
+    letter-spacing: 3px;
+}
+
+h4 {
+    position: absolute;
+    background-color: transparent;
+    color: rgb(158, 102, 76);
+    top: 300px;
+    left: 150px;
+    font-size: 39px;
+    font-family: 'IM Fell English SC', serif;
+    letter-spacing: 3px;
+}
+
+h3 {
+    position: absolute;
+    background-color: transparent;
+    color: rgb(158, 102, 76);
+    top: 340px;
+    left: 150px;
+    font-size: 60px;
+    font-family: 'IM Fell English SC', serif;
+    letter-spacing: 5px; 
+
+}
+
+.pingo {
+    color: rgb(201, 24, 24);
+    position: absolute;
+    margin-top: 340px;
+    left: 130px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.pingo1 {
+    color: rgb(202, 31, 31);
+    position: absolute;
+    margin-top: 340px;
+    left: 150px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+.pingo2 {
+    color: rgb(202, 31, 31);
+    position: absolute;
+    margin-top: 340px;
+    left: 150px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.pingo3 {
+    color: rgb(201, 24, 24);
+    position: absolute;
+    margin-top: 360px;
+    left: 130px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+
+.pingo4 {
+    color: rgb(202, 31, 31);
+    position: absolute;
+    margin-top: 360px;
+    left: 150px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.pingo5 {
+    color: rgb(161, 23, 23);
+    position: absolute;
+    margin-top: 360px;
+    left: 170px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+.pingo6 {
+    color: rgb(201, 24, 24);
+    position: absolute;
+    margin-top: 380px;
+    left: 130px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.pingo7 {
+    color: rgb(202, 31, 31);
+    position: absolute;
+    margin-top: 380px;
+    left: 150px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.pingo8 {
+    color: rgb(161, 23, 23);
+    position: absolute;
+    margin-top: 380px;
+    left: 170px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+.pingo9 {
+    color: rgb(201, 24, 24);
+    position: absolute;
+    margin-top: 400px;
+    left: 130px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.pingo10 {
+    color: rgb(202, 31, 31);
+    position: absolute;
+    margin-top: 400px;
+    left: 150px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.pingo11 {
+    color: rgb(161, 23, 23);
+    position: absolute;
+    margin-top: 400px;
+    left: 170px; 
+    background-color: transparent;
+    font-size: 27px;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.vezes {
+    font-size: 72px;
+    color: rgb(192, 26, 26);
+    position: absolute;
+    top: 200px;
+    left: 620px;   
+    background-color: transparent;
+    border: none;
+}
+
+.fundinho {
+    position: absolute;
+    width: 550px;
+    background-color: transparent;
+    left: 675px;
+    top: 100px;
+}
+
+.texto {
+    color: rgb(192, 135, 60);
+    position: relative;
+    background-color: transparent;
+    top: 300px;
+    left: 90px;
+    font-size: 19px;
+    font-family: 'Sunshiney', sans-serif;
+}
+
+.foto {
+    position: absolute;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 380px; 
+    height: 380px;
+    left: 740px;
+    top: 80px;
+}
+
+.pronto {
+    left: 1000px;
+    border: none;
+    text-decoration: none;
+    color: white;
+    background-color: transparent;
+}
+
+.pronto:hover {
+    cursor: pointer;
+    color: rgb(108, 108, 156);
+    background-color: transparent;
+    border: 2px solid rgb(108, 108, 156);
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #ffffff;
+    transition: background-color 0.3s;
+}
+
+button {
+    left: 1000px;
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #ffffff;
+    transition: background-color 0.3s;
+    margin-left: 580px;
+    margin-top: 30px;
+
+}
+
+
